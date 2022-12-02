@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+.experience {
+    display: flex;
+    flex-direction: column;
+    border: 2px dotted white;
+    border-radius: 10px;
+    width: 200px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    overflow: hidden;
+}
+
+.experience-box-text {
+    margin: 0;
+}
+
+
+.experience>p {
+    font-family: "josefin sans", sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding-bottom: 40px;
+}
+
+.experience>h1 {
+    margin-top: 60px;
+}
