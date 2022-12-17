@@ -5,8 +5,8 @@
     flex-direction: column;
     border: 2px dotted white;
     border-radius: 10px;
-    width: 200px;
-    height: 150px;
+    width: 250px;
+    height: 200px;
     justify-content: center;
     align-items: center;
     background-color: black;
@@ -23,6 +23,8 @@
     font-size: 16px;
     letter-spacing: 1px;
     padding-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 15px;
 }
 
 .experience>h1 {

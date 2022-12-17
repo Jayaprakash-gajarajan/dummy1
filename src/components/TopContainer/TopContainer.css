@@ -1,9 +1,9 @@
 .topContainer {
     background: url("../../assets/IMG-20220531-WA0000.jpg");
-    height: 90vh;
+    height: 45vh;
     /* background-position: center;
     background-size: cover; */
     background-repeat: no-repeat;
     margin: 50px;
-   
+
 }

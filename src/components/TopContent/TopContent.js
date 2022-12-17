@@ -7,8 +7,9 @@ const TopContent = () => {
         <div className='topContent'>
             <div className='topContent__container'>
                 <h1>Mr.Jayaprakash G</h1>
-                <p>My self Jayaprakash.G.I can intrest to create a
-                    new thinks</p>
+                <p>My self Jayaprakash.G.Currently complete the mern stack developer course in Guvi.Now i am
+                    looking for a job.
+                </p>
                 <a>
                     <button className="topContent__downloadButton">Download CV</button>
                 </a>

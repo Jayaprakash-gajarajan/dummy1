@@ -6,7 +6,7 @@ import { useState } from 'react';
 import { getQueriesForElement } from '@testing-library/react';
 import SkillContainer from './components/SkillContainer/SkillContainer';
 import ProjectContainer from './components/ProjectContainer/ProjectContainer';
-// import Experience from './components/ExperienceBox/Experience';
+import Experience from './components/ExperienceBox/Experience';
 import ExperienceContainer from './components/ExperienceContainer/ExperienceContainer';
 import Contact from './components/Contact/Contact';
 

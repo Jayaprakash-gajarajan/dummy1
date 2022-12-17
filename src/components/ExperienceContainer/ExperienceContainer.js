@@ -11,7 +11,7 @@ const ExperienceContainer = () => {
                 <Experience number="+6" tittle="Begineer level projects" />
                 <Experience number="300+" tittle="Problems solved in Guvi" style={{ backgroundColor: "blue" }} />
                 {/* <Experience number="6+" tittle="Years Teaching" /> */}
-                <Experience number="3month" tittle="Training in Guvi" />
+                <Experience number="3month" tittle="MERN stack developer course" />
             </div>
         </Element>
     )

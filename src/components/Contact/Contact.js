@@ -8,11 +8,12 @@ const Contact = () => {
         <Element className="contact" id="contact">
             <h1>Contact</h1>
             <div className='contact__container'>
+
                 <p>
-                    Email:<span>jayaprakash58563@gmail.com</span>
+                    Email:<span>{"  "}jayaprakash58563@gmail.com</span>
                 </p>
                 <p>
-                    Github Username:<span>Jayaprakash G</span>
+                    Phone Number:<span>{"  "}6380535912</span>
                 </p>
                 <div className='contact__icon'>
                     <a href='google.com'>
@@ -30,6 +31,7 @@ const Contact = () => {
                             <Facebook />
                         </IconButton>
                     </a>
+
                 </div>
             </div>
         </Element>
